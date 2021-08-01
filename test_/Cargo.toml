@@ -1,0 +1,9 @@
+[package]
+name = "test_"
+version = "0.1.0"
+authors = ["Yannik Höll <labruzzler@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.0"
+rand_distr = "0.2.2"
